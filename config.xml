@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.blackjack.anish98821" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Blackjack</name>
+    <description>
+        Blackjack is a simple card game made popular by casinos.
+    </description>
+    <author email="anish98821@hotmail.com" href="anish98821@hotmail.com">
+        Anish U
+    </author>
+     <icon src = 'logo.png'/>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+	   Blackjack
+	</title>
+<style>
+button
+{
+border-radius:10px;
+font-size:15px;
+padding:5px 10px;
+margin-right:10px;
+}
+body
+{
+	background-color:#046A32;
+}
+</style>
+</head>
+<body>
+	<div id = 'dealer'></div><br>
+	<img class = 'dealer' width = '10%' >
+	<img class = 'dealer' width = '10%' >
+	<img class = 'dealer' width = '10%' >
+	<img class = 'dealer' width = '10%' >
+	<img class = 'dealer' width = '10%' >
+	<img class = 'dealer' width = '10%' >
+	<br><br>
+	<div id = 'player'></div><br>
+	<img class = 'player' width = '10%'>
+	<img class = 'player' width = '10%'>
+	<img class = 'player' width = '10%'>
+	<img class = 'player' width = '10%'>
+	<img class = 'player' width = '10%'>
+	<img class = 'player' width = '10%'>
+	<br>
+	<p id = 'result'></p>
+	<button id = 'hit' onclick = 'hitP()'>Hit</button>
+	<button id = 'stand' onclick = 'stand()'>Stand</button>
+	<button id = 'new' onclick = 'newGame()'> New Game</button>
+	<button onclick="location.href='index.html'">Quit</button>
+	<script src = 'Blackjack.js'></script>
+</body>
+</html>	
+
+
