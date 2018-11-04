@@ -1,4 +1,3 @@
-//screen.lockOrientation('landscape')
 cards = ['AH.png', 'AS.png', 'AD.png', 'AC.png', 'QH.png', 'QS.png', 
 		'QD.png', 'QC.png', 'KH.png', 'KS.png', 'KD.png', 'KC.png', 
 		'JH.png', 'JS.png', 'JD.png', 'JC.png', '2H.png', '2S.png', 
