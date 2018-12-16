@@ -1,4 +1,4 @@
-#Blackjack
+# Blackjack
 
 A simple blackjack game created using HTML,JS,CSS.
 Download the apk file [here](https://build.phonegap.com/apps/3359941/share)
