@@ -7,6 +7,7 @@
     <author email="anish98821@hotmail.com" href="anish98821@hotmail.com">
         Anish U
     </author>
+    <preference name="orientation" value="landscape" />
      <icon src = 'logo.png'/>
     <content src="index.html" />
     <access origin="*" />
