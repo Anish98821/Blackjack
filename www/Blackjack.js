@@ -171,7 +171,7 @@ function stand(){
 			}
 			else if (totalValueP < totalValueD)
 			{
-				result.innerHTML ="DEALER WINS!!"
+				result.innerHTML ="DEALER WINS!!"//hello there
 				button[0].disabled = true
 				button[1].disabled = true
 		}
